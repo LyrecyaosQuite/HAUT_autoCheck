@@ -1,6 +1,6 @@
 name: clock
 
-on:
+on:#00
   push:
     branches: [ master ]
   pull_request:
